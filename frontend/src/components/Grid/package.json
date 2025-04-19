@@ -1,0 +1,11 @@
+{
+  "name": "@jacked97/cmp-grid",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": {
+    "react": "19.0.0",
+    "react-native": "*",
+    "@jacked97/cmp-grid-item": "*"
+  }
+}

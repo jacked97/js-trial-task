@@ -1,0 +1,11 @@
+{
+  "name": "@jacked97/cmp-header",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": {
+    "@jacked97/cmp-text": "*",
+    "react": "19.0.0",
+    "react-native": "*"
+  }
+}
